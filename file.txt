@@ -2,3 +2,4 @@ line 1
 line 2 
 line 3
 this is edited in Branch 1!
+line 4 version 3 in Branch B1
